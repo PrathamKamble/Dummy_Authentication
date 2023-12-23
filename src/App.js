@@ -11,7 +11,7 @@ const App = () => {
     <Router>
       <Routes>
         <Route path='/login' element={<Login/>}></Route>
-        <Route path='/profile' element={<Profile/>}></Route>
+        <Route path='/Dummy_Authentication/profile' element={<Profile/>}></Route>
       </Routes>
     </Router>
     // <div>

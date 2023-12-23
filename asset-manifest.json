@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dummy_Authentication/static/css/main.064b8faf.css",
+    "main.js": "/Dummy_Authentication/static/js/main.51b87c3c.js",
+    "index.html": "/Dummy_Authentication/index.html",
+    "main.064b8faf.css.map": "/Dummy_Authentication/static/css/main.064b8faf.css.map",
+    "main.51b87c3c.js.map": "/Dummy_Authentication/static/js/main.51b87c3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064b8faf.css",
+    "static/js/main.51b87c3c.js"
+  ]
+}

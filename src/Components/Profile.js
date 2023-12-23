@@ -20,7 +20,6 @@ const Profile = () => {
 
     const handleLogout = () => {
         localStorage.removeItem('user'); // Remove user data from local storage
-        window.location.href = '/login';
       };
 
     return (

@@ -24,7 +24,6 @@ const Login = () => {
             })
             .then(data => {
                 localStorage.setItem('user', JSON.stringify(data));
-                window.location.href = '/profile';
             })
             .catch(error => {
                 setError(error.message);
